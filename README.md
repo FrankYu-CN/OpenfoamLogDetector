@@ -3,5 +3,5 @@ A simple tool to quickly view OpenFOAM's computation logs and confirm convergenc
 
 Packaged as .exe
 '''
-pyinstaller --onefile --windowed waveplot_dialog.py
+pyinstaller --onefile --windowed ofLogDetector.py
 '''
